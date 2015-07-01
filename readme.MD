@@ -1,11 +1,12 @@
-# 
-# Notes
-# For vagrant-embedded project.
-# Purpose: Training tools.
-# Note: For this file and the rest of files under this folder, use view/line ending/Unix!
-#
-# Kiet T. Tran, 2015.
-#
+
+# Notes:
+
+For vagrant-embedded project.
+Purpose: Training tools.
+Note: For this file and the rest of files under this folder, use view/line ending/Unix!
+
+Kiet T. Tran, 2015.
+
 
 This VM is used for a Certified Scrum Developer (CSD) class that focus on Java & C++
 using a Linux VM fully. This is a complete development environment for those who wants to 
